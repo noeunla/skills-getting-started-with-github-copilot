@@ -81,8 +81,11 @@ section h3 {
   color: #555;
 }
 
+/* Updated participant list item style */
 .activity-card ul li {
   margin-bottom: 5px;
+  font-style: italic; /* Added to differentiate participant names */
+  color: #333; /* Adjusted color for better readability */
 }
 
 .form-group {
